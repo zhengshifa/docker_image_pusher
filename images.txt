@@ -1,2 +1,2 @@
 #指定架构
-cooderl/wewe-rss-sqlite:latest
+aquasec/trivy
