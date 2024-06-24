@@ -1,2 +1,2 @@
 #指定架构
-registry.hf.space/camel-ai-camel-agents:latest
+cooderl/wewe-rss-sqlite:latest
