@@ -1,2 +1,2 @@
 #指定架构
-aquasec/trivy
+quay.io/spotahome/redis-operator:latest
