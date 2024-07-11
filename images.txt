@@ -1,2 +1,2 @@
 #指定架构
-tomcat
+nicolaka/netshoot:latest
