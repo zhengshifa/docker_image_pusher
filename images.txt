@@ -1,2 +1,2 @@
 #指定架构
-semaphoreui/semaphore:v2.10.11
+tomcat
