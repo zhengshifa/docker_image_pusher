@@ -1,2 +1,2 @@
 #指定架构
-nicolaka/netshoot:latest
+sigoden/dufs
