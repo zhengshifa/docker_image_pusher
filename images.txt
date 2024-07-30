@@ -1,2 +1,2 @@
 #指定架构
-bpineau/katafygio
+registry.hf.space/camel-ai-camel-agents:latest
