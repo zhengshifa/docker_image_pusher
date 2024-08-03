@@ -1,2 +1,2 @@
 #指定架构
-mrhavens/dedockify
+falcosecurity/falco:0.38.1
