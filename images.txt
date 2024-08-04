@@ -1,2 +1,2 @@
 #指定架构
-falcosecurity/falco:0.38.1
+ghcr.io/camel-ai/camel:latest
