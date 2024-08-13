@@ -1,2 +1,2 @@
 #指定架构
-m1k1o/neko:firefox
+dreamacro/clash:latest
