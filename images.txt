@@ -1,2 +1,3 @@
 #指定架构
-dreamacro/clash:latest
+kubespheredev/kubeeye-apiserver:latest
+kubespheredev/kubeeye-controller:latest
