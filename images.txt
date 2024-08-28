@@ -1,2 +1,3 @@
 #指定架构
-quay.io/kata-containers/kata-deploy:latest
+#--platform=linux/arm64 tomcat
+kafka:3.8.0
