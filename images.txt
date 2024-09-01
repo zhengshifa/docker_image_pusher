@@ -1,5 +1,1 @@
-
-#--platform=linux/arm64 quay.io/minio/operator:v6.0.3
-quay.io/minio/operator:v6.0.3
-nignx:1.24.1
-
+registry:2
