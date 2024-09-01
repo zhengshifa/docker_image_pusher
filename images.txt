@@ -1,5 +1,5 @@
 
-#--platform=linux/arm64 quay.io/minio/operator:V6.0.3
+#--platform=linux/arm64 quay.io/minio/operator:v6.0.3
 quay.io/minio/operator:v6.0.3
 nignx:1.24.1
 
