@@ -1,4 +1,4 @@
 
 #--platform=linux/arm64 quay.io/minio/operator:v6.0.3
-tomcat:latest
+m1k1o/neko:chromium
 
